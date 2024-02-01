@@ -396,5 +396,14 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-*/venv/
+__pycache__/
+*.sqlite3
+venv/
+env/
+media/
+bin/
+.DS_Store
+.ideas/
 .env
+.idea
+.vscode/
